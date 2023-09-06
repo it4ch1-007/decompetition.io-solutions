@@ -1,5 +1,6 @@
 # **baby-CPP**
 
+![image](https://github.com/it4ch1-007/decompetition.io-solutions/assets/133276365/aa49bc37-668b-4588-9ec0-5c147381df38)
 
 
 - Above is the first block of the assembly program given that is accessing the Command-line Arguments and storing them in (rbp-0x14) and (rbp-0x20).
