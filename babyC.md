@@ -4,14 +4,19 @@ Today we are going to decompile the assembly given in the challenge baby-C of De
 
 **First of All we are given blocks that have assembly language so we start form the (main:) block**
 
-![image](https://github.com/it4ch1-007/decompetition.io-solutions/assets/133276365/9bd13699-102b-47e6-8aef-6cb1db539dd3)
+![image](https://github.com/it4ch1-007/decompetition.io-solutions/assets/133276365/019047b2-82ce-4f39-828e-0107ad526fea)
+
+
+
+
 
 
 ->  Here we can easily see that the program is pushing RBP(base pointer register) and RSP(Stack pointer Register) into the Stack for the program to be able to use it.
 
 **Now we move onto (block 1) as (main:) block was not doing much for us**
 
-![image](https://github.com/it4ch1-007/decompetition.io-solutions/assets/133276365/5f30f708-26df-4fda-9aec-d79fe8e245c4)
+![image](https://github.com/it4ch1-007/decompetition.io-solutions/assets/133276365/98fba478-2930-4d3e-8849-bb46bc42eacd)
+
 
 
 ->Here we observe that RAX(Accumulator Register) is made to take the input from the user.
