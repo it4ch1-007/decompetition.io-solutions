@@ -4,12 +4,7 @@ Today we are going to decompile the assembly given in the challenge baby-C of De
 
 **First of All we are given blocks that have assembly language so we start form the (main:) block**
 
-![image](https://github.com/it4ch1-007/decompetition.io-solutions/assets/133276365/019047b2-82ce-4f39-828e-0107ad526fea)
-
-
-
-
-
+![image](https://github.com/it4ch1-007/decompetition.io-solutions/assets/133276365/18f3254c-30c5-4311-9872-fd33a2c78fdf)
 
 ->  Here we can easily see that the program is pushing RBP(base pointer register) and RSP(Stack pointer Register) into the Stack for the program to be able to use it.
 
